@@ -1,0 +1,17 @@
+.Card {
+    border: black 2px solid;
+    padding: 20px;
+    height: 100%;
+    box-shadow: 5px 5px 5px;
+    width: min(200px, 50%);
+    display: flex;
+    flex-direction: column;
+}
+
+.Card-info {
+    padding: 15px;
+}
+
+.Card img {
+    height: 100px;
+}
